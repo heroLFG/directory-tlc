@@ -1,2 +1,3 @@
 # directory-tlc
-directory for this little corner
+
+directory of people working to increase the good fruit being produced by themselves and others
